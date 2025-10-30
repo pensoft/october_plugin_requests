@@ -1,0 +1,10 @@
+name: Requests
+form: $/pensoft/requests/models/request/fields.yaml
+modelClass: Pensoft\Requests\Models\Request
+defaultRedirect: pensoft/requests/requests
+create:
+    redirect: 'pensoft/requests/requests/update/:id'
+    redirectClose: pensoft/requests/requests
+update:
+    redirect: pensoft/requests/requests
+    redirectClose: pensoft/requests/requests

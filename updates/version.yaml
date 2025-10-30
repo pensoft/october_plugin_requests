@@ -1,0 +1,14 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table pensoft_requests_data'
+    - builder_table_create_pensoft_requests_data.php
+1.0.3:
+    - 'Created table pensoft_requests_partners_pivot'
+    - builder_table_create_pensoft_requests_partners_pivot.php
+1.0.4:
+    - 'Created table pensoft_requests_profiles_pivot'
+    - builder_table_create_pensoft_requests_profiles_pivot.php
+1.0.5:
+    - 'Created table pensoft_requests_kens_pivot'
+    - builder_table_create_pensoft_requests_kens_pivot.php

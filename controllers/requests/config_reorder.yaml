@@ -1,0 +1,4 @@
+title: Requests
+modelClass: Pensoft\Requests\Models\Request
+toolbar:
+    buttons: reorder_toolbar
