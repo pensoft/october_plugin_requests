@@ -2,3 +2,7 @@ title: Requests
 modelClass: Pensoft\Requests\Models\Request
 toolbar:
     buttons: reorder_toolbar
+
+
+# The attribute on the model to use for the display name
+nameFrom: title
