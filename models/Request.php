@@ -3,6 +3,7 @@
 use Model;
 use October\Rain\Database\Traits\Sortable;
 
+
 /**
  * Model
  */
