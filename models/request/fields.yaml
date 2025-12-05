@@ -17,12 +17,16 @@ fields:
         mode: date
         span: auto
         type: datepicker
+    status:
+        label: Status
+        span: auto
+        type: text
     requester:
         label: Requester
         span: auto
         type: text
     partner:
-        label: 'Affiliated experts / institutions'
+        label: 'Affiliated institutions'
         nameFrom: instituion
         descriptionFrom: description
         span: auto
@@ -33,6 +37,11 @@ fields:
         descriptionFrom: description
         span: auto
         type: relation
+    experts:
+        label: 'Affiliated experts'
+        size: small
+        span: auto
+        type: richeditor
     kens:
         label: 'Knowledge Exchange Networks'
         nameFrom: title
