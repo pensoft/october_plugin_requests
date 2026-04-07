@@ -1,0 +1,11 @@
+plugin:
+    name: 'pensoft.requests::lang.plugin.name'
+    description: 'pensoft.requests::lang.plugin.description'
+    author: Pensoft
+    icon: oc-icon-question-circle
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'pensoft.requests::lang.plugin.name'
+        url: pensoft/requests/requests
+        icon: icon-question-circle
